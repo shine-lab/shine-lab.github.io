@@ -7,7 +7,7 @@
 	$duration: (
 		menu:				0.35s,
 		transition:			0.2s,
-		banner:				2.5s
+		banner:				1s
 	);
 
 // Size.
@@ -20,26 +20,26 @@
 
 // Font.
 	$font: (
-		family:				('Source Sans Pro', Helvetica, sans-serif),
+		family:				('CMU Serif', Helvetica, sans-serif),
 		family-fixed:		('Courier New', monospace),
-		weight:				300,
-		weight-bold:		600,
+		weight:				0,
+		weight-bold:		0,
 		letter-spacing:		0.025em,
 		letter-spacing-alt:	0.25em
 	);
 
 // Palette.
 	$palette: (
-		bg:					#242943,
-		bg-alt:				#2a2f4a,
-		fg:					#ffffff,
-		fg-bold:			#ffffff,
-		fg-light:			rgba(244,244,255,0.2),
-		border:				rgba(212,212,255,0.1),
+		bg:					#EEEEEE,
+		bg-alt:				#EEEEEE,
+		fg:					#000000,
+		fg-bold:			#000000,
+		fg-light:			rgba(0, 0, 10, 1),
+		border:				rgba(0, 0, 0, 0.5),
 		border-bg:			rgba(212,212,255,0.035),
-		highlight:			#9bf1ff,
+		highlight:			#ffb961,
 		accent1:			#6fc3df,
-		accent2:			#8d82c4,
+		accent2:			#EEEEEE,
 		accent3:			#ec8d81,
 		accent4:			#e7b788,
 		accent5:			#8ea9e8,
