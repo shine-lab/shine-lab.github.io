@@ -1,21 +1,21 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
+title: SHINE Lab
+subtitle: Institute of Cognitive Science
 email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+description: System-Human Interaction with NIRS and EEG.
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
+street_address: Institute of Cognitive Science, CU Boulder
+city: Boulder
+state: CO
+zip_code: 80302
 country: United States of America
-phone: (716) 555-5555
+phone: (720) 453-7902
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 6
+tiles-count: 0
 
 # social settings
 500px_url:
