@@ -4,22 +4,14 @@
 /// Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 ///
 
-
-	@font-face {
-	  font-family: "CMURoman";
-	  src: url("../fonts/cmu/cmunrm.ttf");
-
-	}
 /* Type */
 
 	body, input, select, textarea {
 		color: _palette(fg);
-		font-family: "CMURoman";
+		font-family: _font(family);
 		font-size: 17pt;
-		weight:				0;
-		weight-bold:		0;
-		letter-spacing:		0.025em;
-		letter-spacing-alt:	0.25em;
+		font-weight: _font(weight);
+		letter-spacing: _font(letter-spacing);
 		line-height: 1.65;
 
 		@include breakpoint(xlarge) {

@@ -19,9 +19,15 @@
 	);
 
 
+
+@font-face {
+  font-family: "CMU Serif Roman";
+  src: url("../fonts/cmu/cmunrm.ttf");
+}
+
 // Font.
 	$font: (
-		family:				(Helvetica, sans-serif),
+		family:				("CMU Serif Roman", Helvetica, sans-serif),
 		family-fixed:		('Courier New', monospace),
 		weight:				0,
 		weight-bold:		0,
