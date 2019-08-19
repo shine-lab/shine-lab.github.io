@@ -14,15 +14,14 @@
 		background-attachment: fixed;
 		background-position: center;
 		background-repeat: no-repeat;
-		background-size: cover;
+		background-size: contain;
 		border-bottom: 0 !important;
 		cursor: default;
-		height: 60vh;
-		margin-bottom: -3.25em;
-		max-height: 32em;
+		height: auto;
+		max-height: auto;
 		min-height: 22em;
 		position: relative;
-		top: -3.25em;
+		top: 1.25em;
 
 		&:after {
 			@include vendor('transition', 'opacity #{_duration(banner)} ease');
@@ -33,7 +32,7 @@
 			display: block;
 			height: 100%;
 			left: 0;
-			opacity: 0.85;
+			opacity: 0.95;
 			position: absolute;
 			top: 0;
 			width: 100%;
@@ -70,7 +69,30 @@
 					}
 				}
 			}
+			.news {
+				font-family: "CMU Typewritter Text Regular";
+				color: #000000;
+				font-style: normal;
+				font-weight: 200;
+				font-size: 1.2em;
+			}
+			.date{
+				font-size: 1em;
+				padding: 2px 5px;
+				line-height: normal;
+				height: auto;
+			}
 
+			.minimal{
+				box-shadow: none !important;
+				display: inline-block;
+				font-size: 0.8em;
+				font-weight: _font(weight-bold);
+				height: 1em;
+				letter-spacing: _font(letter-spacing-alt);
+				line-height: normal;
+				left: 0 1em;
+			}
 			.content {
 				@include vendor('display', 'flex');
 				@include vendor('align-items', 'center');

@@ -25,6 +25,12 @@
   src: url("../fonts/cmu/cmunrm.ttf");
 }
 
+
+@font-face {
+  font-family: "CMU Typewritter Text Regular";
+  src: url("../fonts/cmu/cmuntt.ttf");
+}
+
 // Font.
 	$font: (
 		family:				("CMU Serif Roman", Helvetica, sans-serif),
@@ -44,7 +50,7 @@
 		fg-light:			rgba(0, 0, 10, 1),
 		border:				rgba(0, 0, 0, 0.5),
 		border-bg:			rgba(212,212,255,0.035),
-		highlight:			#ffb961,
+		highlight:			#00a79d,
 		accent1:			#6fc3df,
 		accent2:			#EEEEEE,
 		accent3:			#ec8d81,
