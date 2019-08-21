@@ -2,6 +2,7 @@
 layout: page
 title: Publications
 show_tile: true
+nav-menu: true
 ---
 
 <!-- Main -->

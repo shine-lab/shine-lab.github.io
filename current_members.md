@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Current Members
+nav-menu: true
 show_tile: true
 ---
 

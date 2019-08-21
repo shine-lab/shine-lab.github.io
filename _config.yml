@@ -4,7 +4,7 @@ subtitle: Institute of Cognitive Science
 email: leanne.hirsfhield@colorado.edu
 description: System-Human Interaction with NIRS and EEG.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+url: https://shinelaboratory.com # the base hostname & protocol for your site
 author:
 street_address: Institute of Cognitive Science, CU Boulder
 city: Boulder
