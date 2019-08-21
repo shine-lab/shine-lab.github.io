@@ -46,12 +46,12 @@ show_tile: true
 				<div class="1u">
 				</div>
 				<div class="5u">
-					<img width="200" src="assets/images/hirshfield_leanne_ics_faculty.png" alt="" />
+					<img width="200" src="assets/images/male-placeholder.png" alt="" />
 				</div>
 				<div class="1u">
 				</div>
 				<div class="5u">
-					<img width="200" src="assets/images/hirshfield_leanne_ics_faculty.png" alt="" />
+					<img width="200" src="assets/images/male-placeholder.png" alt="" />
 				</div>
 
 			</div>
@@ -75,6 +75,27 @@ show_tile: true
 					<a href="#" class="icon fa-envelope">  lucas.haynes@colorado.edu</a>
 				</div>
 
+			</div>
+    </div>
+		<div class="box alt">
+			<div class="row 100% uniform">
+				<div class="1u">
+				</div>
+				<div class="5u">
+					<img width="200" src="assets/images/male-placeholder.png" alt="" />
+				</div>
+
+			</div>
+			<div class="row 100% uniform">
+				<div class="1u">
+				</div>
+				<div class="5u">
+					<a href="#">Lucca Eloy</a>
+					<br>
+					<a href="#" class="icon fa-briefcase"> Computer Science</a>
+					<br>
+					<a href="#" class="icon fa-envelope">  lucca.eloy@colorado.edu</a>
+				</div>
 			</div>
     </div>
     <center><h3>Graduate Students</h3></center>
