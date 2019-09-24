@@ -82,7 +82,7 @@ show_tile: true
 				<div class="1u">
 				</div>
 				<div class="5u">
-					<img width="200" src="assets/images/male-placeholder.png" alt="" />
+					<img width="200" src="assets/images/lucca-eloy.png" alt="" />
 				</div>
 
 			</div>
@@ -108,9 +108,6 @@ show_tile: true
 				</div>
 				<div class="1u">
 				</div>
-				<div class="5u">
-					<img width="200" src="assets/images/kkc_sq.jpg" alt="" />
-				</div>
 
 			</div>
 			<div class="row 100% uniform">
@@ -127,15 +124,6 @@ show_tile: true
 					<br>
 					<a href="#" class="icon fa-envelope">  kaunil.dhruv@colorado.edu</a>
 
-				</div>
-				<div class="1u">
-				</div>
-				<div class="5u">
-					<a href="#">Kodur K. Chaitanya</a>
-					<br>
-					<a href="#" class="icon fa-briefcase"> Computer Science</a>
-					<br>
-					<a href="#" class="icon fa-envelope">  kodur.chaitanya@colorado.edu</a>
 				</div>
 
 			</div>
