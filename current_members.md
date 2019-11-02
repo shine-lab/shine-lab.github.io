@@ -46,7 +46,7 @@ show_tile: true
 				<div class="1u">
 				</div>
 				<div class="5u">
-					<img width="200" src="assets/images/trevor_grant_cat.png" alt="" />
+					<img width="200" src="assets/images/trevor_grant.png" alt="" />
 				</div>
 				<div class="1u">
 				</div>
