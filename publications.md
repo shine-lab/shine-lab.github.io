@@ -17,7 +17,6 @@ nav-menu: true
 
     <div class="12u$ 12u$(small)">
 
-    		<h3>Refereed Conference Proceedings</h3>
     		<ol>
 					<li>
 					<i>Processing Racial Stereotypes in Virtual Reality: An Exploratory Study Using Functional Near-Infrared Spectroscopy (fNIRS)
