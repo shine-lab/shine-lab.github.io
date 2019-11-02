@@ -21,7 +21,7 @@ show_tile: true
 				<div class="3u">
 				</div>
 				<div class="3u">
-					<img width="200" src="assets/images/hirshfield_leanne_ics_faculty.png" alt="" />
+					<img width="200" src="assets/images/leanne_hirshfield.png" alt="" />
 				</div>
 				<div class="4u">
 					<br>
@@ -46,12 +46,12 @@ show_tile: true
 				<div class="1u">
 				</div>
 				<div class="5u">
-					<img width="200" src="assets/images/male-placeholder.png" alt="" />
+					<img width="200" src="assets/images/trevor_grant_cat.png" alt="" />
 				</div>
 				<div class="1u">
 				</div>
 				<div class="5u">
-					<img width="200" src="assets/images/male-placeholder.png" alt="" />
+					<img width="200" src="assets/images/lucas_hayne.png" alt="" />
 				</div>
 
 			</div>
@@ -59,7 +59,7 @@ show_tile: true
 				<div class="1u">
 				</div>
 				<div class="5u">
-					<a href="#">Trevor J. Grant</a>
+					<a href="#">Trevor Grant</a>
 					<br>
 					<a href="#" class="icon fa-briefcase"> Computer Science</a>
 					<br>
@@ -68,7 +68,7 @@ show_tile: true
 				<div class="1u">
 				</div>
 				<div class="5u">
-					<a href="#">Lucas C. Haynes</a>
+					<a href="#">Lucas Hayne</a>
 					<br>
 					<a href="#" class="icon fa-briefcase"> Computer Science</a>
 					<br>
@@ -82,7 +82,7 @@ show_tile: true
 				<div class="1u">
 				</div>
 				<div class="5u">
-					<img width="200" src="assets/images/lucca-eloy.png" alt="" />
+					<img width="200" src="assets/images/lucca_eloy.png" alt="" />
 				</div>
 
 			</div>
@@ -104,7 +104,7 @@ show_tile: true
 				<div class="1u">
 				</div>
 				<div class="5u">
-					<img width="200" src="assets/images/kaunil-dhruv.png" alt="" />
+					<img width="200" src="assets/images/kaunil_dhruv.png" alt="" />
 				</div>
 				<div class="1u">
 				</div>
